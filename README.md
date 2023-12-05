@@ -13,4 +13,4 @@
 
 <div style="margin-top: 16px;" />
 
-[![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaneIsrael&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaneIsrael&theme=one_dark_pro&show_icons=true)](https://shaneisrael.dev)
