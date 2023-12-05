@@ -13,4 +13,9 @@
 
 <div style="margin-top: 16px;" />
 
-[![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaneIsrael&theme=one_dark_pro&show_icons=true)](https://shaneisrael.dev)
+<a href="https://shaneisrael.dev">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShaneIsrael&theme=one_dark_pro&show_icons=true" />
+</a>
+<a href="https://shaneisrael.dev">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaneIsrael&layout=compact&langs_count=8&card_width=320&theme=one_dark_pro" />
+</a>
